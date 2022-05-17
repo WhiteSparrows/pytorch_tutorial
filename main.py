@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
-import torch 
+mport torch 
 from torch import nn
 from torch.utils.data import DataLoader
 from torchvision import datasets
